@@ -1,2 +1,1 @@
-print("Programming","Essentials","in",sep='***',end='...')
-print("Python")
+print("I\'m","\"learning\"","\"\"Python\"\"",sep='\n')
