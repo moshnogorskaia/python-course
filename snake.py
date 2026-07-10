@@ -1,1 +1,1 @@
-print("I\'m","\"learning\"","\"\"Python\"\"",sep='\n')
+print((2 % -4), (2 % 4), (2 ** 3 ** 2))
